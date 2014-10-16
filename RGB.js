@@ -1,4 +1,4 @@
-// RGB.js 1.0
+// RGB.js 1.0 by Jochen Mauch <mauch at mail dot de>
 // Requires Number.js >= 1.0
 'use strict';
 /**
