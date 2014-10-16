@@ -13,4 +13,3 @@ the cast
 --------
 Jochen Mauch
 creator, project maintainer
-<mauch at mail dot de>
