@@ -1,4 +1,4 @@
-// HSB.js 1.0
+// HSB.js 1.0 by Jochen Mauch <mauch at mail dot de>
 // Requires RGB.js >= 1.0
 'use strict';
 /**
