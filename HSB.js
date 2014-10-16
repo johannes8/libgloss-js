@@ -25,9 +25,9 @@ function HSB(hue, sat, brt)
 HSB.toRGB   = HSB.prototype.toRGB = function()
 {
     var tmp = this.s / 255,
-        r   = this.b * mm.hueTransform(this.h),
-        g   = this.b * mm.hueTransform(this.h + 1024),
-        b   = this.b * mm.hueTransform(this.h +  512);
+        r   = this.b * (this.h).hueTransform(),
+        g   = this.b * (this.h + 1024).hueTransform(),
+        b   = this.b * (this.h +  512).hueTransform();
     r       = tmp    * r + (1 - tmp) * this.b;
     g       = tmp    * g + (1 - tmp) * this.b;
     b       = tmp    * b + (1 - tmp) * this.b;
