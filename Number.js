@@ -1,4 +1,4 @@
-// Number.js 1.0
+// Number.js 1.0 by Jochen Mauch <mauch at mail dot de>
 (function()
 {
     'use strict';
