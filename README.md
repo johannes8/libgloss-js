@@ -11,4 +11,6 @@ features
 
 the cast
 --------
-project maintainer: Jochen Mauch <mauch at mail dot de>
+Jochen Mauch
+creator, project maintainer
+<mauch at mail dot de>
