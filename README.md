@@ -1,4 +1,5 @@
 @author Jochen Mauch
+@release 1.0
 
 libgloss-js
 ===========
