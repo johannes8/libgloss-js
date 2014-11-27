@@ -15,10 +15,3 @@ features
 the cast
 --------
 Jochen Mauch: creator, project maintainer
-
-thanks to
----------
-- God, for creating the universe
-- God, for creating our lovely Mother Earth
-- God, for creating us
-- God, for His perpetual love to thrive in everything that exists
