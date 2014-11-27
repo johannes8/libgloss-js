@@ -14,4 +14,4 @@ features
 
 the cast
 --------
-Jochen Mauch: creator, project maintainer
+Jochen Mauch: creator, project maintainer, asshole to blame for *everything*
